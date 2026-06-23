@@ -200,7 +200,6 @@ Customer-Segmentation-CLV-Churn-Prediction/
 
 ```
 
-'''
 ## Key Outcomes
 
 - Identified high-value customer groups using RFM segmentation
@@ -208,5 +207,5 @@ Customer-Segmentation-CLV-Churn-Prediction/
 - Estimated customer lifetime value for strategic decision-making
 - Developed an interactive Power BI dashboard for business stakeholders
 - Generated actionable insights from 100K+ e-commerce transactions
-'''
+
 
